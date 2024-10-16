@@ -1,5 +1,5 @@
 import "./ui/global.css";
-import { monsterrat } from "@/app/ui/font";
+import { monsterrat } from "@/app/ui/fonts";
 
 export default function RootLayout({
   children,
